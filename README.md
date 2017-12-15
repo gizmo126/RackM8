@@ -1,9 +1,14 @@
 # RackM8
-## Fall 17 CS 465 - User Interface Design Final Project
+Fall 17 CS 465 - User Interface Design Final Project
 
 Video Introduction : https://youtu.be/mZ3_xzuH-rE
 
 RackM8 is an Android application that enables users to search for bicycle racks based on academic buildings. For the scope of our project, this app includes racks and buildings on the UIUC engineering quad.
+
+![Screenshot](view_map.png)
+![Screenshot](view_nearby.png)
+![Screenshot](view_search.png)
+
 
 ## Project Guidelines
 - The project must primarily address an interface design problem. This is not the place to focus on algorithms or database solutions for which the interface is well-known or obvious. It is also best to avoid well-known problems which have been addressed many times over. Showing the locations of friends on a map, course planners, course schedulers, study team organizers, to-do lists, restaurant, menu, and recipe interfaces, and chat interfaces all fall into this category and should be avoided.
