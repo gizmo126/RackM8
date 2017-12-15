@@ -5,9 +5,6 @@ Video Introduction : https://youtu.be/mZ3_xzuH-rE
 
 RackM8 is an Android application that enables users to search for bicycle racks based on academic buildings. For the scope of our project, this app includes racks and buildings on the UIUC engineering quad.
 
-<img src="https://user-images.githubusercontent.com/20560019/34027433-4dd8344a-e122-11e7-8cdc-245f3bcf607c.png" width="200" height="600"/><img  src="https://user-images.githubusercontent.com/20560019/34027435-4f2f06b6-e122-11e7-92cc-478deed64857.png" width="200" height="600" /><img src="https://user-images.githubusercontent.com/20560019/34027435-4f2f06b6-e122-11e7-92cc-478deed6 width="200" height="600" />
-
-
 ## Project Guidelines
 - The project must primarily address an interface design problem. This is not the place to focus on algorithms or database solutions for which the interface is well-known or obvious. It is also best to avoid well-known problems which have been addressed many times over. Showing the locations of friends on a map, course planners, course schedulers, study team organizers, to-do lists, restaurant, menu, and recipe interfaces, and chat interfaces all fall into this category and should be avoided.
 
@@ -29,3 +26,9 @@ RackM8 is an Android application that enables users to search for bicycle racks 
 10. Week 15 (Due Dec. 6 @ 3:30PM): Submit revised functional prototype (10%)
 11. Week 16 (Due Dec. 13 @ 11:59PM): Submit results of a user evaluation of the functional prototype (10%)
 12. Extra Credit (Due Dec. 8 @  11:59PM): Submit a video demonstration of your revised project proposal (up to 5%)
+
+
+## Screenshots
+<img src="https://user-images.githubusercontent.com/20560019/34027433-4dd8344a-e122-11e7-8cdc-245f3bcf607c.png" width="300" height="600"/>
+<img  src="https://user-images.githubusercontent.com/20560019/34027435-4f2f06b6-e122-11e7-92cc-478deed64857.png" width="300" height="600" />
+<img src="https://user-images.githubusercontent.com/20560019/34027436-50db1ae0-e122-11e7-8dfa-8f12420cab4d.png" width="300" height="600" />
