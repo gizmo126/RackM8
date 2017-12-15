@@ -29,11 +29,11 @@ RackM8 is an Android application that enables users to search for bicycle racks 
 
 
 ## Screenshots
-Search View:
+Search View:  
 <img src="https://user-images.githubusercontent.com/20560019/34027433-4dd8344a-e122-11e7-8cdc-245f3bcf607c.png" width="300" height="600"/>
 
-Nearby View:
+Nearby View:  
 <img  src="https://user-images.githubusercontent.com/20560019/34027435-4f2f06b6-e122-11e7-92cc-478deed64857.png" width="300" height="600" />
 
-Map View:
+Map View:  
 <img src="https://user-images.githubusercontent.com/20560019/34027436-50db1ae0-e122-11e7-8dfa-8f12420cab4d.png" width="300" height="600" />
